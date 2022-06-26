@@ -1,0 +1,10 @@
+{
+    "12": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "12",
+        "drug_name": "Paracetamol",
+        "drug_producer": "Teddy",
+        "drug_price": 123.0,
+        "need_recipe": "Yes"
+    }
+}

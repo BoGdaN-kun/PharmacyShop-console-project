@@ -1,0 +1,74 @@
+{
+    "14": {
+        "py/object": "Domain.Transaction.Transaction",
+        "id_entity": "14",
+        "drug_id": "62401547",
+        "client_card_id": "13",
+        "number_of_pieces": 12,
+        "date_and_hour": "11-11-2040 11:11"
+    },
+    "128889": {
+        "py/object": "Domain.Transaction.Transaction",
+        "id_entity": "128889",
+        "drug_id": "15149195",
+        "client_card_id": "12",
+        "number_of_pieces": 12390,
+        "date_and_hour": "11-11-1111 22:22"
+    },
+    "1228889": {
+        "py/object": "Domain.Transaction.Transaction",
+        "id_entity": "1228889",
+        "drug_id": "15149195",
+        "client_card_id": "12",
+        "number_of_pieces": 222,
+        "date_and_hour": "11-11-1111 11:11"
+    },
+    "12899889": {
+        "py/object": "Domain.Transaction.Transaction",
+        "id_entity": "12899889",
+        "drug_id": "15149195",
+        "client_card_id": "12",
+        "number_of_pieces": 222,
+        "date_and_hour": "11-11-1111 11:11"
+    },
+    "000999": {
+        "py/object": "Domain.Transaction.Transaction",
+        "id_entity": "000999",
+        "drug_id": "00",
+        "client_card_id": "12",
+        "number_of_pieces": 222,
+        "date_and_hour": "11-11-1111 11:11"
+    },
+    "909090": {
+        "py/object": "Domain.Transaction.Transaction",
+        "id_entity": "909090",
+        "drug_id": "00",
+        "client_card_id": "12",
+        "number_of_pieces": 1111111111,
+        "date_and_hour": "11-11-1111 11:11"
+    },
+    "12289889": {
+        "py/object": "Domain.Transaction.Transaction",
+        "id_entity": "12289889",
+        "drug_id": "15149195",
+        "client_card_id": "12",
+        "number_of_pieces": 222,
+        "date_and_hour": "11-11-1111 11:11"
+    },
+    "898989": {
+        "py/object": "Domain.Transaction.Transaction",
+        "id_entity": "898989",
+        "drug_id": "00",
+        "client_card_id": "12",
+        "number_of_pieces": 22,
+        "date_and_hour": "22-11-2020 11:11"
+    },
+    "1239012390": {
+        "py/object": "Domain.Transaction.Transaction",
+        "id_entity": "1239012390",
+        "drug_id": "40607825",
+        "client_card_id": "12",
+        "number_of_pieces": 22,
+        "date_and_hour": "22-11-2020 11:11"
+    }
+}

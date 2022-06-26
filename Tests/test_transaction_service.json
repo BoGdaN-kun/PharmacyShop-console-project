@@ -1,0 +1,10 @@
+{
+    "12": {
+        "py/object": "Domain.Transaction.Transaction",
+        "id_entity": "12",
+        "drug_id": "12",
+        "client_card_id": "12",
+        "number_of_pieces": 222,
+        "date_and_hour": "11-11-1111 11:11"
+    }
+}

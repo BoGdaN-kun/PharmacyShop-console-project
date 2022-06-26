@@ -1,0 +1,38 @@
+{
+    "13": {
+        "py/object": "Domain.ClientCard.ClientCard",
+        "id_entity": "13",
+        "client_name": "bo",
+        "client_first_name": "bo",
+        "client_CNP": "1234567891234",
+        "client_birthdate": "11-11-1111",
+        "client_registration_date": "11-11-1111"
+    },
+    "9009000222": {
+        "py/object": "Domain.ClientCard.ClientCard",
+        "id_entity": "9009000222",
+        "client_name": "hjhuh",
+        "client_first_name": "b",
+        "client_CNP": "1234567897777",
+        "client_birthdate": "11-11-1111",
+        "client_registration_date": "11-11-1111"
+    },
+    "90": {
+        "py/object": "Domain.ClientCard.ClientCard",
+        "id_entity": "90",
+        "client_name": "ii",
+        "client_first_name": "ii",
+        "client_CNP": "1234567890128",
+        "client_birthdate": "11-11-1111",
+        "client_registration_date": "11-11-1111"
+    },
+    "12": {
+        "py/object": "Domain.ClientCard.ClientCard",
+        "id_entity": "12",
+        "client_name": "ii",
+        "client_first_name": "ii",
+        "client_CNP": "1230567890128",
+        "client_birthdate": "11-11-1111",
+        "client_registration_date": "11-11-1111"
+    }
+}

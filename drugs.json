@@ -1,0 +1,18 @@
+{
+    "14015901": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "14015901",
+        "drug_name": "yzhbvfzu",
+        "drug_producer": "uyglsmackn",
+        "drug_price": 5395,
+        "need_recipe": "No"
+    },
+    "25843709": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "25843709",
+        "drug_name": "wpwgcg",
+        "drug_producer": "xzvgaln",
+        "drug_price": 794,
+        "need_recipe": "Yes"
+    }
+}
