@@ -95,7 +95,7 @@ class DrugService:
 
     def increase_price(self, value: float, percentile: float) -> None:
         """
-        Increase price for drug
+        Increase price for drugs
         :param value: value
         :param percentile: increase with %
         :return:

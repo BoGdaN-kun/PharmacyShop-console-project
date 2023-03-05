@@ -25,9 +25,9 @@ class RepositoryJson(Repository):
 
     def create(self, entity: Entity) -> None:
         """
-        TODO
-        :param entity:
-        :return:
+        Creates a new entity in the repository.
+        :param entity: the entity to be created
+        :return: None
         """
 
         # self.storage = self.__read_file()
@@ -36,8 +36,7 @@ class RepositoryJson(Repository):
 
         entities = self.__read_file()
         if self.read(entity.id_entity) is not None:
-            raise DuplicateIdError(
-                f'Exista deja o entitate cu id-ul {entity.id_entity}.')
+            raise DuplicateIdError(f'Already exists an entity with id {entity.id_entity}.')
 
         entities[entity.id_entity] = entity
         self.__write_file(entities)
@@ -45,11 +44,10 @@ class RepositoryJson(Repository):
     def read(self, id_entity: object = None) -> Type[Union[Optional[Entity],
                                                            List[Entity]]]:
         """
-        TODO
-        :param id_entity: id-ul votului
-        :return:
-            - entitatea cu id=id_entity sau None daca id_entity nu e None
-            - lista cu toate entitatile daca id_entity e None
+        Reads an entity from the repository.
+        :param id_entity: the id of the entity to be read
+        :return: the entity with id=id_entity or None if id_entity is None
+                    or a list with all the entities if id_entity is None
         """
 
         entities = self.__read_file()
@@ -63,15 +61,15 @@ class RepositoryJson(Repository):
 
     def update(self, entity: Entity) -> None:
         """
-        TODO
-        :param entity:
-        :return:
+        Updates an entity in the repository.
+        :param entity: the entity to be updated
+        :return: None
         """
 
         entities = self.__read_file()
         if self.read(entity.id_entity) is None:
-            msg = f'Nu exista o entitate cu id-ul ' \
-                  f'{entity.id_entity} de actualizat.'
+            msg = f'There is no entity with id ' \
+                  f'{entity.id_entity} to be updated.'
             raise NoSuchIdError(msg)
 
         entities[entity.id_entity] = entity
@@ -79,15 +77,15 @@ class RepositoryJson(Repository):
 
     def delete(self, id_entity: str) -> None:
         """
-        TODO
-        :param id_entity:
-        :return:
+        Deletes an entity from the repository.
+        :param id_entity: the id of the entity to be deleted
+        :return: None
         """
         entities = self.__read_file()
         if self.read(id_entity) is None:
             raise NoSuchIdError(
-                f'Nu exista o entitate cu id-ul '
-                f'{id_entity} pe care sa o stergem.')
+                f'There is no entity with id  '
+                f'{id_entity} to be deleted.')
 
         del entities[id_entity]
         self.__write_file(entities)

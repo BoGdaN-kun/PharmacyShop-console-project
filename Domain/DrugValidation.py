@@ -6,5 +6,5 @@ class DrugValidator:
     def validate(drug: Drug):
         valid_recipe = ['Yes', 'No']
         if drug.need_recipe not in valid_recipe:
-            raise ValueError(f"The recipe validation need to be "
+            raise ValueError(f"The recipe validation needs to be "
                              f"{valid_recipe}.")

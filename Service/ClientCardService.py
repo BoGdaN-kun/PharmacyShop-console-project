@@ -22,14 +22,14 @@ class ClientCardService:
                         client_birthdate: str,
                         client_registration_date: str):
         """
-        Add client card
+        Add a client card
         :param id_client_card:id client card
         :param client_name:client name
         :param client_first_name:client first name
         :param client_cnp:client cnp
         :param client_birthdate: client birthdate
         :param client_registration_date:client registration date
-        :return:
+        :return: None
         """
         if len(client_cnp) != 13:
             raise KeyError("CNP must contain 13 figures.")
@@ -64,7 +64,7 @@ class ClientCardService:
                            client_birthdate: str,
                            client_registration_date: str):
         """
-        Update client card
+        Update  client card
         :param id_client_card:id client card
         :param client_name:client name
         :param client_first_name:client first name

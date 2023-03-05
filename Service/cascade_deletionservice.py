@@ -14,6 +14,7 @@ class CascadeDeletion:
                  transaction_service: TransactionService,
                  client_card_service: ClientCardService,
                  undo_redo_service: UndoRedoService):
+
         self.undo_redo_service = undo_redo_service
         self.drug_repository = drug_repository
         self.client_card_repository = client_card_repository
@@ -26,8 +27,8 @@ class CascadeDeletion:
         """
         Deletes in cascade
         :param id_entity: id entity
-        :param entity: entity type entity/client card
-        :return:
+        :param entity: entity type drug/client card
+        :return: None
         """
         drug_list = []
         transactions_list = []

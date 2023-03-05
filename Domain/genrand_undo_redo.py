@@ -5,7 +5,7 @@ from Domain.undo_redo_operation import UndoRedoOperation
 from Repository.repository import Repository
 
 
-class GenrandAddOperation(UndoRedoOperation):
+class GenerateAddUndoRedo(UndoRedoOperation):
 
     def __init__(self, repository: Repository,
                  added_entities: List[Entity]):

@@ -24,82 +24,82 @@ class Console:
 
     @staticmethod
     def show_menu():
-
-        print('a[drug|client_card|transaction] '
+        print('============================================Menu============================================')
+        print('add drug|client_card|transaction] '
               '- add transaction/client card/transaction.')
-        print('u[drug|client_card|transaction] '
+        print('update drug|client_card|transaction] '
               '- update transaction/client card/transaction.')
-        print('d[drug|client_card|transaction] '
+        print('delete drug|client_card|transaction] '
               '- delete transaction/client card/transaction.')
-        print('s[drug|client_card|transaction] '
+        print('show drugs|client cards|transactions] '
               '- show all transaction/client card/transaction.')
         print('genrand - Generate Random Entities for drugs')
-        print('searchdrug - search full text in drugs')
-        print('searchclient - search full text in client cards')
+        print('search drug - search full text in drugs')
+        print('search client - search full text in client cards')
         print('interval - Show all transaction from a given interval')
         print('sorted - Show all drugs in descending order by numbers of sale')
         print('sale - Show all client cards in descending order by the value '
               'of the discount obtained')
-        print('dtraninterval- Delete transaction from a given interval ')
+        print('delete interval- Delete transaction from a given interval ')
         print('increase - increase the drugs that are lower than a val'
               'ue given with a given %')
         print('cascade - Deletes in cascade drugs/client card')
         print('Undo')
         print('Redo')
         print('x.Exit')
-
+        print('===========================================================================================')
     def run_console(self):
         while True:
             self.show_menu()
             option = input("Choose an option : ")
 
-            if option == 'a[drug]':
+            if option.casefold() == 'add drug':
                 self.handle_add_drug()
-            elif option == 's[drug]':
+            elif option.casefold() == 'show drugs':
                 self.handle_show_all(self.drug_service.get_all())
-            elif option == 'a[client_card]':
+            elif option.casefold() == 'add client card':
                 self.handle_add_client_card()
-            elif option == 's[client_card]':
+            elif option.casefold() == 'show client cards':
                 self.handle_show_all(self.client_card_service.get_all())
-            elif option == 'a[transaction]':
+            elif option.casefold() == 'add transaction':
                 self.handle_add_transaction()
-            elif option == 's[transaction]':
+            elif option.casefold() == 'show transactions':
                 self.handle_show_all(self.transaction_service.get_all())
-            elif option == 'u[drug]':
+            elif option.casefold() == 'update drug':
                 self.handle_update_drug()
-            elif option == 'u[client_card]':
+            elif option.casefold() == 'update client_card':
                 self.handle_update_client()
-            elif option == 'u[transaction]':
+            elif option.casefold() == 'update transaction':
                 self.handle_update_transaction()
-            elif option == 'genrand':
+            elif option.casefold() == 'genrand':
                 self.handle_generate_entity()
-            elif option == 'd[drug]':
+            elif option.casefold() == 'delete drug':
                 self.handle_delete_drug()
-            elif option == 'd[client_card]':
+            elif option == 'delete client card ':
                 self.handle_delete_client_card()
-            elif option == 'd[transaction]':
+            elif option.casefold() == 'delete transaction':
                 self.handle_delete_transaction()
-            elif option == 'searchdrug':
+            elif option.casefold() == 'search drug':
                 self.handle_search_text_drug()
-            elif option == 'searchclient':
+            elif option.casefold() == 'search client':
                 self.handle_search_text_client()
-            elif option == 'interval':
+            elif option.casefold() == 'interval':
                 self.handle_interval()
-            elif option == 'sorted':
+            elif option.casefold() == 'sorted':
                 self.handle_sorted_drugs()
-            elif option == 'sale':
+            elif option.casefold() == 'sale':
                 self.handle_descending_order()
-            elif option == 'dtraninterval':
+            elif option.casefold() == 'delete interval':
                 self.handle_delete_interval_transaction()
-            elif option == 'increase':
+            elif option.casefold() == 'increase':
                 self.handle_increase_price()
-            elif option == 'cascade':
+            elif option.casefold() == 'cascade':
                 self.handle_delete_cascade()
-            elif option == 'Undo':
+            elif option.casefold() == 'Undo'.casefold():
                 self.undo_redo_service.do_undo()
-            elif option == 'Redo':
+            elif option.casefold() == 'Redo'.casefold():
                 self.undo_redo_service.do_redo()
-            elif option == 'x':
+            elif option.casefold() == 'x':
                 break
             else:
                 print("Invalid option! ")

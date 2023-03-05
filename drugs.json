@@ -14,5 +14,2413 @@
         "drug_producer": "xzvgaln",
         "drug_price": 794,
         "need_recipe": "Yes"
+    },
+    "27158589": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "27158589",
+        "drug_name": "graaa",
+        "drug_producer": "fvlmbe",
+        "drug_price": 1880,
+        "need_recipe": "No"
+    },
+    "77243924": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "77243924",
+        "drug_name": "qxzahwqib",
+        "drug_producer": "uutqrlxgo",
+        "drug_price": 7518,
+        "need_recipe": "No"
+    },
+    "60824300": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "60824300",
+        "drug_name": "gpgwi",
+        "drug_producer": "rnnqtxyiip",
+        "drug_price": 624,
+        "need_recipe": "Yes"
+    },
+    "97239921": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "97239921",
+        "drug_name": "mnlxkwsexm",
+        "drug_producer": "ajykf",
+        "drug_price": 7128,
+        "need_recipe": "Yes"
+    },
+    "32430066": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "32430066",
+        "drug_name": "kksefyi",
+        "drug_producer": "fksshglnxd",
+        "drug_price": 4347,
+        "need_recipe": "Yes"
+    },
+    "62625563": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "62625563",
+        "drug_name": "zukanvx",
+        "drug_producer": "puqwhq",
+        "drug_price": 6925,
+        "need_recipe": "No"
+    },
+    "87326091": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "87326091",
+        "drug_name": "xhzkcov",
+        "drug_producer": "kmucso",
+        "drug_price": 6758,
+        "need_recipe": "Yes"
+    },
+    "17360218": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "17360218",
+        "drug_name": "rcscxht",
+        "drug_producer": "tmxajppjnd",
+        "drug_price": 6520,
+        "need_recipe": "No"
+    },
+    "69627724": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "69627724",
+        "drug_name": "drmupwpqkn",
+        "drug_producer": "wdxrmbzfwg",
+        "drug_price": 5726,
+        "need_recipe": "No"
+    },
+    "65793484": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "65793484",
+        "drug_name": "qbkaoqts",
+        "drug_producer": "dmxnjqztqi",
+        "drug_price": 8605,
+        "need_recipe": "No"
+    },
+    "40997889": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "40997889",
+        "drug_name": "inywgamcd",
+        "drug_producer": "dczgoduxi",
+        "drug_price": 8415,
+        "need_recipe": "Yes"
+    },
+    "96734852": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "96734852",
+        "drug_name": "utpkzwv",
+        "drug_producer": "elllwok",
+        "drug_price": 7985,
+        "need_recipe": "No"
+    },
+    "24074634": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "24074634",
+        "drug_name": "jxhwtpcccz",
+        "drug_producer": "qpkileamw",
+        "drug_price": 8732,
+        "need_recipe": "Yes"
+    },
+    "47563946": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "47563946",
+        "drug_name": "ccaynrfqg",
+        "drug_producer": "dpehkq",
+        "drug_price": 431,
+        "need_recipe": "No"
+    },
+    "4657237": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "4657237",
+        "drug_name": "zvbssnzqr",
+        "drug_producer": "mhepsrkl",
+        "drug_price": 2925,
+        "need_recipe": "Yes"
+    },
+    "90943837": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "90943837",
+        "drug_name": "prnvmpa",
+        "drug_producer": "pidslb",
+        "drug_price": 7835,
+        "need_recipe": "Yes"
+    },
+    "43133513": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "43133513",
+        "drug_name": "mderjxxq",
+        "drug_producer": "oxatlqz",
+        "drug_price": 6256,
+        "need_recipe": "Yes"
+    },
+    "15942489": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "15942489",
+        "drug_name": "sqjkmrb",
+        "drug_producer": "fumxwfl",
+        "drug_price": 2549,
+        "need_recipe": "Yes"
+    },
+    "14847597": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "14847597",
+        "drug_name": "nclbth",
+        "drug_producer": "vrklqqnpjj",
+        "drug_price": 7648,
+        "need_recipe": "Yes"
+    },
+    "39881597": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "39881597",
+        "drug_name": "ruwjmcge",
+        "drug_producer": "lxpms",
+        "drug_price": 1711,
+        "need_recipe": "No"
+    },
+    "68559181": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "68559181",
+        "drug_name": "ofcijqt",
+        "drug_producer": "meqjkvots",
+        "drug_price": 6982,
+        "need_recipe": "Yes"
+    },
+    "25228151": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "25228151",
+        "drug_name": "mkyijvzli",
+        "drug_producer": "npwpcgqfwg",
+        "drug_price": 1493,
+        "need_recipe": "No"
+    },
+    "88749646": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "88749646",
+        "drug_name": "ljziw",
+        "drug_producer": "oylnengpz",
+        "drug_price": 1631,
+        "need_recipe": "Yes"
+    },
+    "7454081": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "7454081",
+        "drug_name": "safhi",
+        "drug_producer": "fwrri",
+        "drug_price": 1051,
+        "need_recipe": "Yes"
+    },
+    "48538524": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "48538524",
+        "drug_name": "mpsnx",
+        "drug_producer": "zattuph",
+        "drug_price": 474,
+        "need_recipe": "No"
+    },
+    "15803931": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "15803931",
+        "drug_name": "zrcvpjm",
+        "drug_producer": "dqdvlo",
+        "drug_price": 3275,
+        "need_recipe": "No"
+    },
+    "87359133": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "87359133",
+        "drug_name": "dqtosiw",
+        "drug_producer": "xwanykhlj",
+        "drug_price": 304,
+        "need_recipe": "No"
+    },
+    "19764937": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "19764937",
+        "drug_name": "tbuvl",
+        "drug_producer": "pzdtdxhskc",
+        "drug_price": 6568,
+        "need_recipe": "Yes"
+    },
+    "35688413": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "35688413",
+        "drug_name": "nswoekw",
+        "drug_producer": "dbqjg",
+        "drug_price": 5355,
+        "need_recipe": "No"
+    },
+    "41354999": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "41354999",
+        "drug_name": "obzgi",
+        "drug_producer": "hthgujvhp",
+        "drug_price": 5276,
+        "need_recipe": "No"
+    },
+    "9764007": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "9764007",
+        "drug_name": "lqhqyet",
+        "drug_producer": "hiiid",
+        "drug_price": 7400,
+        "need_recipe": "Yes"
+    },
+    "9567607": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "9567607",
+        "drug_name": "qaqxrdp",
+        "drug_producer": "muoicahe",
+        "drug_price": 66.0,
+        "need_recipe": "Yes"
+    },
+    "46040884": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "46040884",
+        "drug_name": "mplakbej",
+        "drug_producer": "oupuol",
+        "drug_price": 1474,
+        "need_recipe": "Yes"
+    },
+    "79822355": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "79822355",
+        "drug_name": "oqktpdcc",
+        "drug_producer": "uhycg",
+        "drug_price": 6881,
+        "need_recipe": "No"
+    },
+    "81780401": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "81780401",
+        "drug_name": "fixpvrwp",
+        "drug_producer": "vnvlurkrlc",
+        "drug_price": 1864,
+        "need_recipe": "No"
+    },
+    "54774293": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "54774293",
+        "drug_name": "lvvkgvmdg",
+        "drug_producer": "msxibpvrt",
+        "drug_price": 1806,
+        "need_recipe": "Yes"
+    },
+    "79251462": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "79251462",
+        "drug_name": "mgmrbcfw",
+        "drug_producer": "hosgoylm",
+        "drug_price": 4090,
+        "need_recipe": "Yes"
+    },
+    "19252233": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "19252233",
+        "drug_name": "gnqwlxl",
+        "drug_producer": "xzclodna",
+        "drug_price": 4453,
+        "need_recipe": "No"
+    },
+    "58399180": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "58399180",
+        "drug_name": "vzysv",
+        "drug_producer": "anlxde",
+        "drug_price": 6310,
+        "need_recipe": "No"
+    },
+    "94228020": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "94228020",
+        "drug_name": "shgzke",
+        "drug_producer": "ivpqva",
+        "drug_price": 3854,
+        "need_recipe": "No"
+    },
+    "9708005": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "9708005",
+        "drug_name": "xaygnhq",
+        "drug_producer": "hyxehdq",
+        "drug_price": 418,
+        "need_recipe": "Yes"
+    },
+    "39376037": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "39376037",
+        "drug_name": "ilobhxd",
+        "drug_producer": "bumua",
+        "drug_price": 6888,
+        "need_recipe": "Yes"
+    },
+    "59950946": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "59950946",
+        "drug_name": "ctfdqwn",
+        "drug_producer": "tzgayh",
+        "drug_price": 4098,
+        "need_recipe": "No"
+    },
+    "89867549": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "89867549",
+        "drug_name": "bvaxpyxmp",
+        "drug_producer": "vtnxbeiewm",
+        "drug_price": 2852,
+        "need_recipe": "No"
+    },
+    "62925725": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "62925725",
+        "drug_name": "siwgeinet",
+        "drug_producer": "ujpiz",
+        "drug_price": 2659,
+        "need_recipe": "Yes"
+    },
+    "63408554": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "63408554",
+        "drug_name": "updhpz",
+        "drug_producer": "zpdmdd",
+        "drug_price": 3666,
+        "need_recipe": "No"
+    },
+    "83964449": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "83964449",
+        "drug_name": "mkdyceki",
+        "drug_producer": "usxmap",
+        "drug_price": 694,
+        "need_recipe": "Yes"
+    },
+    "76428744": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "76428744",
+        "drug_name": "ahcqciz",
+        "drug_producer": "fmafib",
+        "drug_price": 5142,
+        "need_recipe": "Yes"
+    },
+    "50298714": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "50298714",
+        "drug_name": "ewdtlf",
+        "drug_producer": "zdppyhapwp",
+        "drug_price": 2964,
+        "need_recipe": "No"
+    },
+    "71341357": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "71341357",
+        "drug_name": "nmajzdidl",
+        "drug_producer": "vmvzbz",
+        "drug_price": 6947,
+        "need_recipe": "Yes"
+    },
+    "54333595": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "54333595",
+        "drug_name": "ogdkoo",
+        "drug_producer": "qqlfs",
+        "drug_price": 2412,
+        "need_recipe": "No"
+    },
+    "67394184": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "67394184",
+        "drug_name": "rvgdddsuw",
+        "drug_producer": "cqawctvs",
+        "drug_price": 6970,
+        "need_recipe": "No"
+    },
+    "49969875": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "49969875",
+        "drug_name": "sbwpqzrc",
+        "drug_producer": "vjfmvohle",
+        "drug_price": 4751,
+        "need_recipe": "Yes"
+    },
+    "83915956": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "83915956",
+        "drug_name": "kiqxb",
+        "drug_producer": "ewpqdzc",
+        "drug_price": 7506,
+        "need_recipe": "No"
+    },
+    "17019092": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "17019092",
+        "drug_name": "xbltvqsb",
+        "drug_producer": "zdvzetjm",
+        "drug_price": 2673,
+        "need_recipe": "Yes"
+    },
+    "18441973": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "18441973",
+        "drug_name": "iypqy",
+        "drug_producer": "bfwtudurhc",
+        "drug_price": 6211,
+        "need_recipe": "Yes"
+    },
+    "88685211": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "88685211",
+        "drug_name": "dwrlpozvyk",
+        "drug_producer": "rolvsijfpp",
+        "drug_price": 1056,
+        "need_recipe": "Yes"
+    },
+    "40492817": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "40492817",
+        "drug_name": "uxmkkufg",
+        "drug_producer": "gkbvl",
+        "drug_price": 733,
+        "need_recipe": "No"
+    },
+    "41765165": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "41765165",
+        "drug_name": "uwhbwp",
+        "drug_producer": "oiytsz",
+        "drug_price": 2912,
+        "need_recipe": "Yes"
+    },
+    "58842217": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "58842217",
+        "drug_name": "elnkwgezf",
+        "drug_producer": "urbsx",
+        "drug_price": 1090,
+        "need_recipe": "Yes"
+    },
+    "32891347": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "32891347",
+        "drug_name": "ugoirs",
+        "drug_producer": "czmmbmfwx",
+        "drug_price": 3621,
+        "need_recipe": "No"
+    },
+    "50807109": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "50807109",
+        "drug_name": "zyjxo",
+        "drug_producer": "jlkqz",
+        "drug_price": 1004,
+        "need_recipe": "Yes"
+    },
+    "51721233": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "51721233",
+        "drug_name": "neyjxlhjg",
+        "drug_producer": "ghzpsdnzsk",
+        "drug_price": 4556,
+        "need_recipe": "Yes"
+    },
+    "71128643": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "71128643",
+        "drug_name": "opkchxlb",
+        "drug_producer": "qbton",
+        "drug_price": 4324,
+        "need_recipe": "Yes"
+    },
+    "6009455": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "6009455",
+        "drug_name": "eypuzs",
+        "drug_producer": "balafklnq",
+        "drug_price": 8307,
+        "need_recipe": "Yes"
+    },
+    "48698219": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "48698219",
+        "drug_name": "rsxfcagos",
+        "drug_producer": "kylibns",
+        "drug_price": 8569,
+        "need_recipe": "No"
+    },
+    "12365491": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "12365491",
+        "drug_name": "ncpqid",
+        "drug_producer": "cmaidhebsa",
+        "drug_price": 1367,
+        "need_recipe": "No"
+    },
+    "90026895": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "90026895",
+        "drug_name": "cbzosaet",
+        "drug_producer": "shyli",
+        "drug_price": 6430,
+        "need_recipe": "Yes"
+    },
+    "64765788": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "64765788",
+        "drug_name": "eufkifgvip",
+        "drug_producer": "cpeod",
+        "drug_price": 4058,
+        "need_recipe": "No"
+    },
+    "38757689": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "38757689",
+        "drug_name": "uoaukjcq",
+        "drug_producer": "ophxdy",
+        "drug_price": 5258,
+        "need_recipe": "Yes"
+    },
+    "1329924": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "1329924",
+        "drug_name": "bzpgvwioex",
+        "drug_producer": "rjbzwn",
+        "drug_price": 8472,
+        "need_recipe": "No"
+    },
+    "42253023": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "42253023",
+        "drug_name": "vbwmgmwvl",
+        "drug_producer": "wkleqneht",
+        "drug_price": 5047,
+        "need_recipe": "No"
+    },
+    "3778659": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "3778659",
+        "drug_name": "ljjvxurqws",
+        "drug_producer": "azqdrjxcrh",
+        "drug_price": 8401,
+        "need_recipe": "No"
+    },
+    "12490132": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "12490132",
+        "drug_name": "ubvpqwlg",
+        "drug_producer": "vpjgihrx",
+        "drug_price": 8239,
+        "need_recipe": "Yes"
+    },
+    "42603863": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "42603863",
+        "drug_name": "iobcpdltzw",
+        "drug_producer": "knpor",
+        "drug_price": 6570,
+        "need_recipe": "No"
+    },
+    "46033711": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "46033711",
+        "drug_name": "oecpxrszvm",
+        "drug_producer": "ydgfre",
+        "drug_price": 5969,
+        "need_recipe": "No"
+    },
+    "12488083": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "12488083",
+        "drug_name": "qhewdtqca",
+        "drug_producer": "ucwnljsnqx",
+        "drug_price": 5884,
+        "need_recipe": "Yes"
+    },
+    "71709906": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "71709906",
+        "drug_name": "eluzned",
+        "drug_producer": "drgzeijks",
+        "drug_price": 2489,
+        "need_recipe": "No"
+    },
+    "77381195": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "77381195",
+        "drug_name": "nwdocbctwn",
+        "drug_producer": "yelawkiv",
+        "drug_price": 1463,
+        "need_recipe": "Yes"
+    },
+    "59107585": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "59107585",
+        "drug_name": "vhncvzkaq",
+        "drug_producer": "oejhnwint",
+        "drug_price": 3325,
+        "need_recipe": "Yes"
+    },
+    "44262697": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "44262697",
+        "drug_name": "llqjfgzk",
+        "drug_producer": "exbrgpqbth",
+        "drug_price": 2115,
+        "need_recipe": "No"
+    },
+    "90366381": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "90366381",
+        "drug_name": "jaizjlrgr",
+        "drug_producer": "dmixa",
+        "drug_price": 1899,
+        "need_recipe": "Yes"
+    },
+    "90781530": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "90781530",
+        "drug_name": "rkftxfifx",
+        "drug_producer": "kfiijcp",
+        "drug_price": 3943,
+        "need_recipe": "Yes"
+    },
+    "17789790": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "17789790",
+        "drug_name": "crbgq",
+        "drug_producer": "xuuitsx",
+        "drug_price": 511,
+        "need_recipe": "No"
+    },
+    "27595132": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "27595132",
+        "drug_name": "jdjxjdaiv",
+        "drug_producer": "rhccjhttrq",
+        "drug_price": 804,
+        "need_recipe": "No"
+    },
+    "94660625": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "94660625",
+        "drug_name": "krajulpv",
+        "drug_producer": "fxxffftp",
+        "drug_price": 7936,
+        "need_recipe": "Yes"
+    },
+    "44777614": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "44777614",
+        "drug_name": "pzedjsxex",
+        "drug_producer": "kgkzblr",
+        "drug_price": 4303,
+        "need_recipe": "Yes"
+    },
+    "77775625": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "77775625",
+        "drug_name": "egcebx",
+        "drug_producer": "pkwhu",
+        "drug_price": 3265,
+        "need_recipe": "No"
+    },
+    "67741073": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "67741073",
+        "drug_name": "jpdhy",
+        "drug_producer": "ylgugebi",
+        "drug_price": 5453,
+        "need_recipe": "Yes"
+    },
+    "70626583": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "70626583",
+        "drug_name": "ofjcvqxf",
+        "drug_producer": "jnerta",
+        "drug_price": 48.4,
+        "need_recipe": "No"
+    },
+    "10120679": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "10120679",
+        "drug_name": "kwiehiuyw",
+        "drug_producer": "fjnhwei",
+        "drug_price": 6712,
+        "need_recipe": "No"
+    },
+    "48005726": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "48005726",
+        "drug_name": "ivsxuroiug",
+        "drug_producer": "ewpsziw",
+        "drug_price": 6240,
+        "need_recipe": "No"
+    },
+    "65446081": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "65446081",
+        "drug_name": "pceyfenug",
+        "drug_producer": "kunjzvxhr",
+        "drug_price": 7581,
+        "need_recipe": "No"
+    },
+    "74450800": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "74450800",
+        "drug_name": "slxnj",
+        "drug_producer": "qwbnnos",
+        "drug_price": 3740,
+        "need_recipe": "No"
+    },
+    "56247654": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "56247654",
+        "drug_name": "zjxkfshklg",
+        "drug_producer": "uujpo",
+        "drug_price": 3234,
+        "need_recipe": "No"
+    },
+    "9037753": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "9037753",
+        "drug_name": "ppezhvld",
+        "drug_producer": "ladcv",
+        "drug_price": 7434,
+        "need_recipe": "No"
+    },
+    "92933468": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "92933468",
+        "drug_name": "lrbmpykaz",
+        "drug_producer": "invfbsa",
+        "drug_price": 6808,
+        "need_recipe": "No"
+    },
+    "62671381": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "62671381",
+        "drug_name": "lctxpm",
+        "drug_producer": "kqprmnssy",
+        "drug_price": 530,
+        "need_recipe": "Yes"
+    },
+    "80856692": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "80856692",
+        "drug_name": "mceydeaxg",
+        "drug_producer": "aemtb",
+        "drug_price": 4579,
+        "need_recipe": "Yes"
+    },
+    "96468141": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "96468141",
+        "drug_name": "jcxfrv",
+        "drug_producer": "tpypvvj",
+        "drug_price": 6389,
+        "need_recipe": "No"
+    },
+    "50133218": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "50133218",
+        "drug_name": "loxov",
+        "drug_producer": "paurmejb",
+        "drug_price": 1426,
+        "need_recipe": "No"
+    },
+    "45008912": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "45008912",
+        "drug_name": "pxgqryidad",
+        "drug_producer": "vduuqxdo",
+        "drug_price": 3235,
+        "need_recipe": "Yes"
+    },
+    "80875896": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "80875896",
+        "drug_name": "isrjao",
+        "drug_producer": "jfctscy",
+        "drug_price": 5912,
+        "need_recipe": "Yes"
+    },
+    "33360428": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "33360428",
+        "drug_name": "cdjobttgqk",
+        "drug_producer": "jjjoljwq",
+        "drug_price": 4959,
+        "need_recipe": "No"
+    },
+    "82798086": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "82798086",
+        "drug_name": "elvlymuy",
+        "drug_producer": "rbawpzhpm",
+        "drug_price": 6901,
+        "need_recipe": "Yes"
+    },
+    "11015454": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "11015454",
+        "drug_name": "focxyfq",
+        "drug_producer": "eopczjuwen",
+        "drug_price": 1035,
+        "need_recipe": "Yes"
+    },
+    "85146843": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "85146843",
+        "drug_name": "umeemhawb",
+        "drug_producer": "asvjxotta",
+        "drug_price": 5265,
+        "need_recipe": "Yes"
+    },
+    "26585680": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "26585680",
+        "drug_name": "coswadpk",
+        "drug_producer": "eqbemsziw",
+        "drug_price": 4736,
+        "need_recipe": "Yes"
+    },
+    "41889343": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "41889343",
+        "drug_name": "sblypojzao",
+        "drug_producer": "dqhfokbqw",
+        "drug_price": 8111,
+        "need_recipe": "No"
+    },
+    "77243290": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "77243290",
+        "drug_name": "bkygc",
+        "drug_producer": "euptiqgul",
+        "drug_price": 7537,
+        "need_recipe": "Yes"
+    },
+    "19569394": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "19569394",
+        "drug_name": "fqupjlsfdv",
+        "drug_producer": "yynzjatng",
+        "drug_price": 2589,
+        "need_recipe": "Yes"
+    },
+    "21505180": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "21505180",
+        "drug_name": "mnsdapq",
+        "drug_producer": "bfjlychzir",
+        "drug_price": 149.6,
+        "need_recipe": "No"
+    },
+    "82337836": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "82337836",
+        "drug_name": "gmmwke",
+        "drug_producer": "vzimofuh",
+        "drug_price": 5093,
+        "need_recipe": "No"
+    },
+    "54233233": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "54233233",
+        "drug_name": "klvixpuasw",
+        "drug_producer": "qihbozygtd",
+        "drug_price": 4037,
+        "need_recipe": "No"
+    },
+    "24833229": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "24833229",
+        "drug_name": "xcrgyenbsu",
+        "drug_producer": "vczwatu",
+        "drug_price": 3054,
+        "need_recipe": "Yes"
+    },
+    "45652867": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "45652867",
+        "drug_name": "tlhtwyxrji",
+        "drug_producer": "nouvvdhn",
+        "drug_price": 2163,
+        "need_recipe": "Yes"
+    },
+    "61730295": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "61730295",
+        "drug_name": "blteap",
+        "drug_producer": "hpgkyttf",
+        "drug_price": 3015,
+        "need_recipe": "No"
+    },
+    "28937584": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "28937584",
+        "drug_name": "omshuw",
+        "drug_producer": "ftqigzukf",
+        "drug_price": 8006,
+        "need_recipe": "Yes"
+    },
+    "66554840": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "66554840",
+        "drug_name": "xfurjofl",
+        "drug_producer": "fayczqjg",
+        "drug_price": 6656,
+        "need_recipe": "No"
+    },
+    "42370873": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "42370873",
+        "drug_name": "ujdutoghbm",
+        "drug_producer": "hmfos",
+        "drug_price": 3437,
+        "need_recipe": "No"
+    },
+    "11504696": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "11504696",
+        "drug_name": "uymerihtpj",
+        "drug_producer": "pqhqghyum",
+        "drug_price": 133.1,
+        "need_recipe": "Yes"
+    },
+    "43535737": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "43535737",
+        "drug_name": "dhwco",
+        "drug_producer": "gnjzcjs",
+        "drug_price": 4376,
+        "need_recipe": "Yes"
+    },
+    "76011144": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "76011144",
+        "drug_name": "cblmgt",
+        "drug_producer": "csmaox",
+        "drug_price": 1011,
+        "need_recipe": "No"
+    },
+    "80114479": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "80114479",
+        "drug_name": "mmrypkwo",
+        "drug_producer": "sfqfkvvt",
+        "drug_price": 7953,
+        "need_recipe": "Yes"
+    },
+    "71247925": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "71247925",
+        "drug_name": "lzjhdd",
+        "drug_producer": "walaypcmpo",
+        "drug_price": 1823,
+        "need_recipe": "Yes"
+    },
+    "10638552": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "10638552",
+        "drug_name": "jmcielsbdk",
+        "drug_producer": "ldlms",
+        "drug_price": 6046,
+        "need_recipe": "No"
+    },
+    "14353286": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "14353286",
+        "drug_name": "avjhh",
+        "drug_producer": "plkesstiju",
+        "drug_price": 8722,
+        "need_recipe": "Yes"
+    },
+    "82273554": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "82273554",
+        "drug_name": "ujrruyydqb",
+        "drug_producer": "fthgni",
+        "drug_price": 3054,
+        "need_recipe": "No"
+    },
+    "69006786": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "69006786",
+        "drug_name": "dvuzdz",
+        "drug_producer": "vxloy",
+        "drug_price": 4354,
+        "need_recipe": "No"
+    },
+    "4675947": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "4675947",
+        "drug_name": "ivizyuvu",
+        "drug_producer": "pzfyxbxci",
+        "drug_price": 1846,
+        "need_recipe": "Yes"
+    },
+    "89552370": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "89552370",
+        "drug_name": "ycfkoel",
+        "drug_producer": "wllnlqrqxk",
+        "drug_price": 5613,
+        "need_recipe": "Yes"
+    },
+    "255479": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "255479",
+        "drug_name": "ydgjqd",
+        "drug_producer": "johin",
+        "drug_price": 306,
+        "need_recipe": "No"
+    },
+    "97130928": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "97130928",
+        "drug_name": "xnfxcos",
+        "drug_producer": "gwubezsyyf",
+        "drug_price": 7835,
+        "need_recipe": "No"
+    },
+    "79743444": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "79743444",
+        "drug_name": "wcklzslni",
+        "drug_producer": "xpndueyd",
+        "drug_price": 8683,
+        "need_recipe": "Yes"
+    },
+    "1976557": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "1976557",
+        "drug_name": "zgvpgnztv",
+        "drug_producer": "qknrf",
+        "drug_price": 8463,
+        "need_recipe": "Yes"
+    },
+    "13732010": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "13732010",
+        "drug_name": "jqblbrzz",
+        "drug_producer": "rwutcks",
+        "drug_price": 8284,
+        "need_recipe": "Yes"
+    },
+    "53526878": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "53526878",
+        "drug_name": "qbnnqjp",
+        "drug_producer": "xymgyu",
+        "drug_price": 529,
+        "need_recipe": "No"
+    },
+    "97300945": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "97300945",
+        "drug_name": "ighgtm",
+        "drug_producer": "taqwa",
+        "drug_price": 141.9,
+        "need_recipe": "Yes"
+    },
+    "10477423": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "10477423",
+        "drug_name": "iyjstwgo",
+        "drug_producer": "fvnpvzsr",
+        "drug_price": 2706,
+        "need_recipe": "Yes"
+    },
+    "79194684": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "79194684",
+        "drug_name": "pksickjjoa",
+        "drug_producer": "swlixvf",
+        "drug_price": 6911,
+        "need_recipe": "Yes"
+    },
+    "97915466": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "97915466",
+        "drug_name": "szxtz",
+        "drug_producer": "ecxmzpmobd",
+        "drug_price": 8318,
+        "need_recipe": "Yes"
+    },
+    "9402021": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "9402021",
+        "drug_name": "elzket",
+        "drug_producer": "ejqhhjafxa",
+        "drug_price": 4277,
+        "need_recipe": "Yes"
+    },
+    "74724616": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "74724616",
+        "drug_name": "zowbo",
+        "drug_producer": "afpieut",
+        "drug_price": 203,
+        "need_recipe": "Yes"
+    },
+    "9973956": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "9973956",
+        "drug_name": "nrftvdqsxa",
+        "drug_producer": "mrgjq",
+        "drug_price": 729,
+        "need_recipe": "Yes"
+    },
+    "55467797": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "55467797",
+        "drug_name": "snvquybqjc",
+        "drug_producer": "dqsdn",
+        "drug_price": 6878,
+        "need_recipe": "No"
+    },
+    "30028160": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "30028160",
+        "drug_name": "reiazdoyo",
+        "drug_producer": "xyjof",
+        "drug_price": 483,
+        "need_recipe": "Yes"
+    },
+    "33107770": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "33107770",
+        "drug_name": "nnyqc",
+        "drug_producer": "zprrnjka",
+        "drug_price": 7948,
+        "need_recipe": "Yes"
+    },
+    "9833973": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "9833973",
+        "drug_name": "gzfjxinbz",
+        "drug_producer": "mgadv",
+        "drug_price": 6086,
+        "need_recipe": "Yes"
+    },
+    "28511243": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "28511243",
+        "drug_name": "imevltogn",
+        "drug_producer": "tlfdqmlxtz",
+        "drug_price": 1022,
+        "need_recipe": "Yes"
+    },
+    "51487125": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "51487125",
+        "drug_name": "eqmnnvumj",
+        "drug_producer": "wpbbz",
+        "drug_price": 256,
+        "need_recipe": "No"
+    },
+    "15899487": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "15899487",
+        "drug_name": "kprpgbznxt",
+        "drug_producer": "faopt",
+        "drug_price": 808,
+        "need_recipe": "No"
+    },
+    "53433285": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "53433285",
+        "drug_name": "fgqykjpe",
+        "drug_producer": "lbzlpakjxv",
+        "drug_price": 6069,
+        "need_recipe": "No"
+    },
+    "16323438": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "16323438",
+        "drug_name": "dkrldmvxbu",
+        "drug_producer": "cjspibcvc",
+        "drug_price": 4832,
+        "need_recipe": "No"
+    },
+    "80548254": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "80548254",
+        "drug_name": "jxbtbmgfbr",
+        "drug_producer": "smmsgz",
+        "drug_price": 471,
+        "need_recipe": "No"
+    },
+    "62214947": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "62214947",
+        "drug_name": "dktwkpq",
+        "drug_producer": "ruaudwrfdp",
+        "drug_price": 1785,
+        "need_recipe": "Yes"
+    },
+    "98974939": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "98974939",
+        "drug_name": "apjpf",
+        "drug_producer": "finqhag",
+        "drug_price": 8928,
+        "need_recipe": "Yes"
+    },
+    "45706301": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "45706301",
+        "drug_name": "pfwlkjp",
+        "drug_producer": "cuzoji",
+        "drug_price": 1455,
+        "need_recipe": "No"
+    },
+    "35804511": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "35804511",
+        "drug_name": "azqorrtdt",
+        "drug_producer": "fndsxletn",
+        "drug_price": 1431,
+        "need_recipe": "No"
+    },
+    "5062469": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "5062469",
+        "drug_name": "tjmvgqoq",
+        "drug_producer": "cftzdta",
+        "drug_price": 6488,
+        "need_recipe": "Yes"
+    },
+    "70288960": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "70288960",
+        "drug_name": "ssynp",
+        "drug_producer": "pkubxhll",
+        "drug_price": 5186,
+        "need_recipe": "Yes"
+    },
+    "25051743": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "25051743",
+        "drug_name": "kyiqknerwj",
+        "drug_producer": "eyffgbyuvf",
+        "drug_price": 4756,
+        "need_recipe": "No"
+    },
+    "55365856": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "55365856",
+        "drug_name": "ziyxzq",
+        "drug_producer": "nrlbfiknq",
+        "drug_price": 3552,
+        "need_recipe": "No"
+    },
+    "86104020": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "86104020",
+        "drug_name": "wkbchvxw",
+        "drug_producer": "hcibiexanr",
+        "drug_price": 4811,
+        "need_recipe": "Yes"
+    },
+    "98085609": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "98085609",
+        "drug_name": "lrxeizfrh",
+        "drug_producer": "kitkwyg",
+        "drug_price": 5227,
+        "need_recipe": "No"
+    },
+    "80640665": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "80640665",
+        "drug_name": "lrjksiz",
+        "drug_producer": "evbfxivopv",
+        "drug_price": 58.3,
+        "need_recipe": "Yes"
+    },
+    "85386084": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "85386084",
+        "drug_name": "cqvkkn",
+        "drug_producer": "qxqfy",
+        "drug_price": 5433,
+        "need_recipe": "No"
+    },
+    "48084565": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "48084565",
+        "drug_name": "ytvdpitivk",
+        "drug_producer": "ealioumkat",
+        "drug_price": 3646,
+        "need_recipe": "Yes"
+    },
+    "80074084": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "80074084",
+        "drug_name": "ofvtebi",
+        "drug_producer": "kqwilq",
+        "drug_price": 8216,
+        "need_recipe": "No"
+    },
+    "16874904": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "16874904",
+        "drug_name": "ruxuzqlc",
+        "drug_producer": "jbhnhrm",
+        "drug_price": 1946,
+        "need_recipe": "No"
+    },
+    "54535432": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "54535432",
+        "drug_name": "rsnjtbmh",
+        "drug_producer": "wusrhjotd",
+        "drug_price": 1574,
+        "need_recipe": "No"
+    },
+    "89527256": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "89527256",
+        "drug_name": "rljrli",
+        "drug_producer": "xvjvvl",
+        "drug_price": 1513,
+        "need_recipe": "No"
+    },
+    "78545450": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "78545450",
+        "drug_name": "sxkajfn",
+        "drug_producer": "dhoxljueai",
+        "drug_price": 8497,
+        "need_recipe": "No"
+    },
+    "72777982": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "72777982",
+        "drug_name": "jbowhbcm",
+        "drug_producer": "rheaicjbe",
+        "drug_price": 7318,
+        "need_recipe": "Yes"
+    },
+    "84289468": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "84289468",
+        "drug_name": "tllwtigp",
+        "drug_producer": "jkrfmqw",
+        "drug_price": 435,
+        "need_recipe": "No"
+    },
+    "26855588": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "26855588",
+        "drug_name": "hjgnaum",
+        "drug_producer": "qnwziigulu",
+        "drug_price": 6832,
+        "need_recipe": "Yes"
+    },
+    "78037934": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "78037934",
+        "drug_name": "txsjtpyg",
+        "drug_producer": "ixmjzbfb",
+        "drug_price": 8888,
+        "need_recipe": "No"
+    },
+    "76034598": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "76034598",
+        "drug_name": "wfksvpdlb",
+        "drug_producer": "vguvbs",
+        "drug_price": 3898,
+        "need_recipe": "Yes"
+    },
+    "95351175": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "95351175",
+        "drug_name": "fmjbjozkqe",
+        "drug_producer": "kabbg",
+        "drug_price": 620,
+        "need_recipe": "Yes"
+    },
+    "5593764": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "5593764",
+        "drug_name": "ustjj",
+        "drug_producer": "kbgwwdj",
+        "drug_price": 7271,
+        "need_recipe": "No"
+    },
+    "69105718": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "69105718",
+        "drug_name": "gnrisjx",
+        "drug_producer": "pkgyef",
+        "drug_price": 1573,
+        "need_recipe": "Yes"
+    },
+    "11468184": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "11468184",
+        "drug_name": "kraesrk",
+        "drug_producer": "fqwvacs",
+        "drug_price": 1885,
+        "need_recipe": "Yes"
+    },
+    "66817779": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "66817779",
+        "drug_name": "eprflfp",
+        "drug_producer": "imohvol",
+        "drug_price": 8819,
+        "need_recipe": "Yes"
+    },
+    "99477890": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "99477890",
+        "drug_name": "fsryjwrpw",
+        "drug_producer": "nsqoqizb",
+        "drug_price": 4146,
+        "need_recipe": "Yes"
+    },
+    "73533128": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "73533128",
+        "drug_name": "sproxjhlx",
+        "drug_producer": "bdfqifpdtl",
+        "drug_price": 8178,
+        "need_recipe": "No"
+    },
+    "62415198": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "62415198",
+        "drug_name": "toohhoxig",
+        "drug_producer": "ponucyejyy",
+        "drug_price": 2675,
+        "need_recipe": "Yes"
+    },
+    "51156364": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "51156364",
+        "drug_name": "lvicgugkse",
+        "drug_producer": "shpqgd",
+        "drug_price": 5336,
+        "need_recipe": "No"
+    },
+    "20575596": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "20575596",
+        "drug_name": "mrhfh",
+        "drug_producer": "jisccuwlwl",
+        "drug_price": 7318,
+        "need_recipe": "No"
+    },
+    "99962706": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "99962706",
+        "drug_name": "qdgivj",
+        "drug_producer": "tjmtcwwghg",
+        "drug_price": 2216,
+        "need_recipe": "No"
+    },
+    "82036013": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "82036013",
+        "drug_name": "migtmp",
+        "drug_producer": "ufhma",
+        "drug_price": 2915,
+        "need_recipe": "No"
+    },
+    "66184080": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "66184080",
+        "drug_name": "kzpoh",
+        "drug_producer": "eqcghcpsl",
+        "drug_price": 6177,
+        "need_recipe": "No"
+    },
+    "30063313": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "30063313",
+        "drug_name": "xqaxfb",
+        "drug_producer": "gotde",
+        "drug_price": 8612,
+        "need_recipe": "No"
+    },
+    "48747058": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "48747058",
+        "drug_name": "ooscn",
+        "drug_producer": "keeze",
+        "drug_price": 8209,
+        "need_recipe": "No"
+    },
+    "24934048": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "24934048",
+        "drug_name": "bouuwjd",
+        "drug_producer": "uvaaf",
+        "drug_price": 2719,
+        "need_recipe": "Yes"
+    },
+    "12258261": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "12258261",
+        "drug_name": "eukjbvbetu",
+        "drug_producer": "ryrnlpr",
+        "drug_price": 1241,
+        "need_recipe": "No"
+    },
+    "40529786": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "40529786",
+        "drug_name": "gatxxbutp",
+        "drug_producer": "cdiifalks",
+        "drug_price": 6940,
+        "need_recipe": "No"
+    },
+    "71605409": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "71605409",
+        "drug_name": "ywzcqqfq",
+        "drug_producer": "vmjbln",
+        "drug_price": 2004,
+        "need_recipe": "No"
+    },
+    "30903998": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "30903998",
+        "drug_name": "edmqmawml",
+        "drug_producer": "dqsbbnp",
+        "drug_price": 172.7,
+        "need_recipe": "No"
+    },
+    "84201787": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "84201787",
+        "drug_name": "sljakdhcs",
+        "drug_producer": "dlfzwmdjho",
+        "drug_price": 3092,
+        "need_recipe": "No"
+    },
+    "53749565": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "53749565",
+        "drug_name": "csrhwwzalh",
+        "drug_producer": "nzznqsy",
+        "drug_price": 7812,
+        "need_recipe": "Yes"
+    },
+    "40819752": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "40819752",
+        "drug_name": "mqkoyltjx",
+        "drug_producer": "xheanox",
+        "drug_price": 7804,
+        "need_recipe": "Yes"
+    },
+    "77796534": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "77796534",
+        "drug_name": "gczxknesy",
+        "drug_producer": "bvgox",
+        "drug_price": 8805,
+        "need_recipe": "Yes"
+    },
+    "34390284": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "34390284",
+        "drug_name": "ofthelye",
+        "drug_producer": "rltycu",
+        "drug_price": 5355,
+        "need_recipe": "Yes"
+    },
+    "1364622": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "1364622",
+        "drug_name": "jenczgz",
+        "drug_producer": "elodzho",
+        "drug_price": 2174,
+        "need_recipe": "No"
+    },
+    "96737975": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "96737975",
+        "drug_name": "nfyyqryfk",
+        "drug_producer": "dztupfcsm",
+        "drug_price": 8138,
+        "need_recipe": "No"
+    },
+    "84808533": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "84808533",
+        "drug_name": "kvcjswgexh",
+        "drug_producer": "ibtqvsjin",
+        "drug_price": 8618,
+        "need_recipe": "Yes"
+    },
+    "26106226": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "26106226",
+        "drug_name": "qdcyr",
+        "drug_producer": "qkgekafbud",
+        "drug_price": 4905,
+        "need_recipe": "Yes"
+    },
+    "78043753": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "78043753",
+        "drug_name": "tmzfp",
+        "drug_producer": "ebaplcur",
+        "drug_price": 6263,
+        "need_recipe": "Yes"
+    },
+    "2435328": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "2435328",
+        "drug_name": "djlnpguc",
+        "drug_producer": "yuopphka",
+        "drug_price": 221,
+        "need_recipe": "No"
+    },
+    "50243442": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "50243442",
+        "drug_name": "boxkurll",
+        "drug_producer": "getcna",
+        "drug_price": 1912,
+        "need_recipe": "No"
+    },
+    "78191925": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "78191925",
+        "drug_name": "uojmhw",
+        "drug_producer": "btyfiiwz",
+        "drug_price": 6315,
+        "need_recipe": "Yes"
+    },
+    "67191553": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "67191553",
+        "drug_name": "wausvooc",
+        "drug_producer": "oyhqt",
+        "drug_price": 3105,
+        "need_recipe": "Yes"
+    },
+    "37095522": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "37095522",
+        "drug_name": "cjrcoahgav",
+        "drug_producer": "iudtpxz",
+        "drug_price": 8165,
+        "need_recipe": "Yes"
+    },
+    "77534523": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "77534523",
+        "drug_name": "kwijug",
+        "drug_producer": "izunowm",
+        "drug_price": 7851,
+        "need_recipe": "No"
+    },
+    "80668522": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "80668522",
+        "drug_name": "oahbdg",
+        "drug_producer": "jyxaxpl",
+        "drug_price": 6380,
+        "need_recipe": "No"
+    },
+    "22451465": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "22451465",
+        "drug_name": "suksykrqe",
+        "drug_producer": "ryvwyutam",
+        "drug_price": 8536,
+        "need_recipe": "Yes"
+    },
+    "35037531": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "35037531",
+        "drug_name": "apalps",
+        "drug_producer": "prldrqdx",
+        "drug_price": 6447,
+        "need_recipe": "No"
+    },
+    "15363187": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "15363187",
+        "drug_name": "ryaxzpygc",
+        "drug_producer": "ranfjyipjj",
+        "drug_price": 5150,
+        "need_recipe": "No"
+    },
+    "22684902": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "22684902",
+        "drug_name": "ceimtw",
+        "drug_producer": "hnvormozys",
+        "drug_price": 2811,
+        "need_recipe": "Yes"
+    },
+    "92103494": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "92103494",
+        "drug_name": "usdtofhs",
+        "drug_producer": "qqbqx",
+        "drug_price": 4844,
+        "need_recipe": "No"
+    },
+    "90471009": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "90471009",
+        "drug_name": "ufywvso",
+        "drug_producer": "mswox",
+        "drug_price": 6151,
+        "need_recipe": "Yes"
+    },
+    "24869533": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "24869533",
+        "drug_name": "qbppnlmq",
+        "drug_producer": "rmoxvxblls",
+        "drug_price": 8318,
+        "need_recipe": "No"
+    },
+    "16015651": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "16015651",
+        "drug_name": "fijgvoqg",
+        "drug_producer": "hnlkmo",
+        "drug_price": 7188,
+        "need_recipe": "No"
+    },
+    "6459649": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "6459649",
+        "drug_name": "aiullexgl",
+        "drug_producer": "uhdggfbl",
+        "drug_price": 1701,
+        "need_recipe": "No"
+    },
+    "69699928": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "69699928",
+        "drug_name": "wpkcnnpz",
+        "drug_producer": "daleuk",
+        "drug_price": 2178,
+        "need_recipe": "No"
+    },
+    "39133532": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "39133532",
+        "drug_name": "bveuk",
+        "drug_producer": "ndgncwsb",
+        "drug_price": 4800,
+        "need_recipe": "No"
+    },
+    "5357823": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "5357823",
+        "drug_name": "cznmc",
+        "drug_producer": "lcbxhqyv",
+        "drug_price": 2451,
+        "need_recipe": "Yes"
+    },
+    "75335955": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "75335955",
+        "drug_name": "quvgrzsx",
+        "drug_producer": "wxfnmt",
+        "drug_price": 2075,
+        "need_recipe": "No"
+    },
+    "38646780": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "38646780",
+        "drug_name": "mevhc",
+        "drug_producer": "yeqxsabpxh",
+        "drug_price": 4177,
+        "need_recipe": "No"
+    },
+    "6189433": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "6189433",
+        "drug_name": "rcgcuuxk",
+        "drug_producer": "fwopn",
+        "drug_price": 8881,
+        "need_recipe": "Yes"
+    },
+    "53902708": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "53902708",
+        "drug_name": "jnatqrfz",
+        "drug_producer": "tispb",
+        "drug_price": 5062,
+        "need_recipe": "Yes"
+    },
+    "90242101": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "90242101",
+        "drug_name": "tayjmnh",
+        "drug_producer": "fztwsffqdi",
+        "drug_price": 3877,
+        "need_recipe": "No"
+    },
+    "93052143": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "93052143",
+        "drug_name": "gfuuhyibsg",
+        "drug_producer": "maazrbw",
+        "drug_price": 394,
+        "need_recipe": "No"
+    },
+    "83707333": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "83707333",
+        "drug_name": "tyjytr",
+        "drug_producer": "dytnxrck",
+        "drug_price": 3485,
+        "need_recipe": "No"
+    },
+    "6811264": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "6811264",
+        "drug_name": "zvsys",
+        "drug_producer": "ddvbirgrp",
+        "drug_price": 351,
+        "need_recipe": "Yes"
+    },
+    "61938608": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "61938608",
+        "drug_name": "foydzlna",
+        "drug_producer": "pvxkcdah",
+        "drug_price": 4896,
+        "need_recipe": "No"
+    },
+    "81122676": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "81122676",
+        "drug_name": "cuzwpfh",
+        "drug_producer": "giazme",
+        "drug_price": 4526,
+        "need_recipe": "Yes"
+    },
+    "55046763": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "55046763",
+        "drug_name": "yizdc",
+        "drug_producer": "rwsqeqq",
+        "drug_price": 835,
+        "need_recipe": "Yes"
+    },
+    "2277528": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "2277528",
+        "drug_name": "ldputn",
+        "drug_producer": "wbfbvyzvj",
+        "drug_price": 835,
+        "need_recipe": "No"
+    },
+    "74509633": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "74509633",
+        "drug_name": "imacj",
+        "drug_producer": "gxeacevt",
+        "drug_price": 6571,
+        "need_recipe": "Yes"
+    },
+    "16576456": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "16576456",
+        "drug_name": "tsgnctk",
+        "drug_producer": "kfhcgvlux",
+        "drug_price": 8186,
+        "need_recipe": "Yes"
+    },
+    "78307359": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "78307359",
+        "drug_name": "dhzrr",
+        "drug_producer": "voyvik",
+        "drug_price": 5312,
+        "need_recipe": "Yes"
+    },
+    "12574985": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "12574985",
+        "drug_name": "eggypqd",
+        "drug_producer": "tcpsy",
+        "drug_price": 4105,
+        "need_recipe": "No"
+    },
+    "64176194": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "64176194",
+        "drug_name": "vzgohlmket",
+        "drug_producer": "xaolytaxzr",
+        "drug_price": 7861,
+        "need_recipe": "Yes"
+    },
+    "9523911": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "9523911",
+        "drug_name": "bvkbp",
+        "drug_producer": "jxuquqbw",
+        "drug_price": 8878,
+        "need_recipe": "No"
+    },
+    "23503365": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "23503365",
+        "drug_name": "cyvjlfwmns",
+        "drug_producer": "qqgsdag",
+        "drug_price": 1440,
+        "need_recipe": "Yes"
+    },
+    "74700055": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "74700055",
+        "drug_name": "zhkbmhyq",
+        "drug_producer": "ronvb",
+        "drug_price": 6348,
+        "need_recipe": "Yes"
+    },
+    "22356348": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "22356348",
+        "drug_name": "dyxgbd",
+        "drug_producer": "wallbsrqnv",
+        "drug_price": 6561,
+        "need_recipe": "Yes"
+    },
+    "58261224": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "58261224",
+        "drug_name": "ecmyctun",
+        "drug_producer": "mqqiwmkgmm",
+        "drug_price": 5090,
+        "need_recipe": "No"
+    },
+    "91688888": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "91688888",
+        "drug_name": "jtnfwomv",
+        "drug_producer": "atuhalggjs",
+        "drug_price": 6247,
+        "need_recipe": "No"
+    },
+    "38816495": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "38816495",
+        "drug_name": "btvetagjrq",
+        "drug_producer": "cxcgmyo",
+        "drug_price": 2287,
+        "need_recipe": "Yes"
+    },
+    "41312562": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "41312562",
+        "drug_name": "jkcqmo",
+        "drug_producer": "kgyeu",
+        "drug_price": 1782,
+        "need_recipe": "No"
+    },
+    "12619539": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "12619539",
+        "drug_name": "ustbhmzjht",
+        "drug_producer": "qflfyytggn",
+        "drug_price": 3230,
+        "need_recipe": "Yes"
+    },
+    "70130015": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "70130015",
+        "drug_name": "giixhjnh",
+        "drug_producer": "dfleqb",
+        "drug_price": 6652,
+        "need_recipe": "Yes"
+    },
+    "60760602": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "60760602",
+        "drug_name": "ifmncr",
+        "drug_producer": "yoiorirlo",
+        "drug_price": 52,
+        "need_recipe": "Yes"
+    },
+    "11917333": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "11917333",
+        "drug_name": "sfkfkny",
+        "drug_producer": "owpgna",
+        "drug_price": 3837,
+        "need_recipe": "No"
+    },
+    "31608523": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "31608523",
+        "drug_name": "vweakgvgu",
+        "drug_producer": "rkwncfl",
+        "drug_price": 4296,
+        "need_recipe": "No"
+    },
+    "9453925": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "9453925",
+        "drug_name": "fuvyjsu",
+        "drug_producer": "frnonbqhg",
+        "drug_price": 4543,
+        "need_recipe": "No"
+    },
+    "70855637": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "70855637",
+        "drug_name": "pwfge",
+        "drug_producer": "pwazdhgj",
+        "drug_price": 8923,
+        "need_recipe": "Yes"
+    },
+    "99772936": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "99772936",
+        "drug_name": "nrwkxykzws",
+        "drug_producer": "htcux",
+        "drug_price": 5859,
+        "need_recipe": "No"
+    },
+    "2631329": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "2631329",
+        "drug_name": "xjavwk",
+        "drug_producer": "qvkmrljvbe",
+        "drug_price": 5442,
+        "need_recipe": "No"
+    },
+    "86802721": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "86802721",
+        "drug_name": "vfqeuwa",
+        "drug_producer": "taqpkf",
+        "drug_price": 1293,
+        "need_recipe": "Yes"
+    },
+    "62617551": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "62617551",
+        "drug_name": "qyqyisjr",
+        "drug_producer": "gzxvhzxove",
+        "drug_price": 6959,
+        "need_recipe": "Yes"
+    },
+    "59599805": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "59599805",
+        "drug_name": "ihosm",
+        "drug_producer": "ftofe",
+        "drug_price": 5270,
+        "need_recipe": "Yes"
+    },
+    "15991287": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "15991287",
+        "drug_name": "dqsherr",
+        "drug_producer": "cztcermoit",
+        "drug_price": 8161,
+        "need_recipe": "Yes"
+    },
+    "34778083": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "34778083",
+        "drug_name": "ipcri",
+        "drug_producer": "ryokic",
+        "drug_price": 3793,
+        "need_recipe": "Yes"
+    },
+    "34671933": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "34671933",
+        "drug_name": "thenztw",
+        "drug_producer": "ptedxzgh",
+        "drug_price": 6152,
+        "need_recipe": "Yes"
+    },
+    "22015951": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "22015951",
+        "drug_name": "enbcwx",
+        "drug_producer": "hzjarrhno",
+        "drug_price": 7139,
+        "need_recipe": "No"
+    },
+    "4890475": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "4890475",
+        "drug_name": "xvnljxg",
+        "drug_producer": "wgytwicxfs",
+        "drug_price": 5296,
+        "need_recipe": "Yes"
+    },
+    "38403876": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "38403876",
+        "drug_name": "rkclsccgx",
+        "drug_producer": "vgidiiks",
+        "drug_price": 5913,
+        "need_recipe": "No"
+    },
+    "22635160": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "22635160",
+        "drug_name": "lknmcntr",
+        "drug_producer": "aldwuynoq",
+        "drug_price": 4039,
+        "need_recipe": "Yes"
+    },
+    "77409814": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "77409814",
+        "drug_name": "abtvbg",
+        "drug_producer": "wvgvto",
+        "drug_price": 2253,
+        "need_recipe": "No"
+    },
+    "38691727": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "38691727",
+        "drug_name": "tuvtcxh",
+        "drug_producer": "uspsaspvss",
+        "drug_price": 6211,
+        "need_recipe": "Yes"
+    },
+    "99759503": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "99759503",
+        "drug_name": "liwcnpkcga",
+        "drug_producer": "darjcqw",
+        "drug_price": 1246,
+        "need_recipe": "Yes"
+    },
+    "70877696": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "70877696",
+        "drug_name": "uvxqzxsqu",
+        "drug_producer": "bcqppfxhp",
+        "drug_price": 4668,
+        "need_recipe": "No"
+    },
+    "66567861": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "66567861",
+        "drug_name": "oxpzasn",
+        "drug_producer": "ydvcatygxk",
+        "drug_price": 7874,
+        "need_recipe": "No"
+    },
+    "27177272": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "27177272",
+        "drug_name": "bfbde",
+        "drug_producer": "uintotdg",
+        "drug_price": 6718,
+        "need_recipe": "Yes"
+    },
+    "44298800": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "44298800",
+        "drug_name": "nallm",
+        "drug_producer": "ojxgfkg",
+        "drug_price": 2448,
+        "need_recipe": "Yes"
+    },
+    "30831924": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "30831924",
+        "drug_name": "mrtgid",
+        "drug_producer": "jpnru",
+        "drug_price": 5322,
+        "need_recipe": "Yes"
+    },
+    "73853717": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "73853717",
+        "drug_name": "exbghsmarw",
+        "drug_producer": "mzpmda",
+        "drug_price": 5994,
+        "need_recipe": "No"
+    },
+    "4132580": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "4132580",
+        "drug_name": "kbwwuriv",
+        "drug_producer": "zzoubeea",
+        "drug_price": 688,
+        "need_recipe": "No"
+    },
+    "34825226": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "34825226",
+        "drug_name": "sqpqrp",
+        "drug_producer": "wdakjn",
+        "drug_price": 6860,
+        "need_recipe": "Yes"
+    },
+    "543175": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "543175",
+        "drug_name": "gbktuywukh",
+        "drug_producer": "bgcitbjn",
+        "drug_price": 6088,
+        "need_recipe": "Yes"
+    },
+    "86852013": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "86852013",
+        "drug_name": "jplzluufum",
+        "drug_producer": "lavboir",
+        "drug_price": 6068,
+        "need_recipe": "No"
+    },
+    "11410415": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "11410415",
+        "drug_name": "qrdfve",
+        "drug_producer": "iazicntmtp",
+        "drug_price": 4425,
+        "need_recipe": "Yes"
+    },
+    "3605010": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "3605010",
+        "drug_name": "wyimj",
+        "drug_producer": "xlldzuzdu",
+        "drug_price": 3305,
+        "need_recipe": "No"
+    },
+    "80978360": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "80978360",
+        "drug_name": "ngduykll",
+        "drug_producer": "vgcdb",
+        "drug_price": 3988,
+        "need_recipe": "No"
+    },
+    "21984735": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "21984735",
+        "drug_name": "zjvpkbktl",
+        "drug_producer": "shcyih",
+        "drug_price": 2387,
+        "need_recipe": "Yes"
+    },
+    "26709905": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "26709905",
+        "drug_name": "gvwapvgo",
+        "drug_producer": "yqtdxbtwo",
+        "drug_price": 3030,
+        "need_recipe": "Yes"
+    },
+    "2942160": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "2942160",
+        "drug_name": "ughylbuehy",
+        "drug_producer": "egbmzoik",
+        "drug_price": 7192,
+        "need_recipe": "No"
+    },
+    "34830955": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "34830955",
+        "drug_name": "sncalowanb",
+        "drug_producer": "xwbge",
+        "drug_price": 6023,
+        "need_recipe": "Yes"
+    },
+    "79475437": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "79475437",
+        "drug_name": "rqilwo",
+        "drug_producer": "pjwnelrc",
+        "drug_price": 855,
+        "need_recipe": "No"
+    },
+    "7662158": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "7662158",
+        "drug_name": "neeyib",
+        "drug_producer": "zzfgudtdh",
+        "drug_price": 4504,
+        "need_recipe": "Yes"
+    },
+    "56757462": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "56757462",
+        "drug_name": "hqlbge",
+        "drug_producer": "uuguy",
+        "drug_price": 2548,
+        "need_recipe": "Yes"
+    },
+    "30612543": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "30612543",
+        "drug_name": "rbejsdnyk",
+        "drug_producer": "nmhuvhjrh",
+        "drug_price": 727,
+        "need_recipe": "Yes"
+    },
+    "79280606": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "79280606",
+        "drug_name": "emvqffpzli",
+        "drug_producer": "rfekfjzczd",
+        "drug_price": 2197,
+        "need_recipe": "No"
+    },
+    "49242756": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "49242756",
+        "drug_name": "rsaeml",
+        "drug_producer": "rejdm",
+        "drug_price": 4961,
+        "need_recipe": "Yes"
+    },
+    "34298580": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "34298580",
+        "drug_name": "lahjntlxjj",
+        "drug_producer": "rdklhjesy",
+        "drug_price": 1954,
+        "need_recipe": "No"
+    },
+    "71128831": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "71128831",
+        "drug_name": "fabhnzfcm",
+        "drug_producer": "lpbmzmkh",
+        "drug_price": 6339,
+        "need_recipe": "No"
+    },
+    "88011916": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "88011916",
+        "drug_name": "oujcpwt",
+        "drug_producer": "jqsky",
+        "drug_price": 7211,
+        "need_recipe": "No"
+    },
+    "58140819": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "58140819",
+        "drug_name": "ybvgyr",
+        "drug_producer": "vhmpt",
+        "drug_price": 8766,
+        "need_recipe": "Yes"
+    },
+    "22068727": {
+        "py/object": "Domain.Drug.Drug",
+        "id_entity": "22068727",
+        "drug_name": "oiffjtrew",
+        "drug_producer": "blgqn",
+        "drug_price": 5895,
+        "need_recipe": "No"
     }
 }

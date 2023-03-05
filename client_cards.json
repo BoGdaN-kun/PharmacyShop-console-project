@@ -34,5 +34,14 @@
         "client_CNP": "1230567890128",
         "client_birthdate": "11-11-1111",
         "client_registration_date": "11-11-1111"
+    },
+    "1": {
+        "py/object": "Domain.ClientCard.ClientCard",
+        "id_entity": "1",
+        "client_name": "Bogdan",
+        "client_first_name": "B",
+        "client_CNP": "1234578966123",
+        "client_birthdate": "11-11-1111",
+        "client_registration_date": "11-11-1111"
     }
 }
